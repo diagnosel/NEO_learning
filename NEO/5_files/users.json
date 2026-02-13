@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Маруся Ісаєвич",
+    "address": "сквер Аграрна, буд. 58 кв. 5, Торецьк, 66585",
+    "email": "vshapoval@example.com",
+    "phone_number": "087 181 03 33",
+    "password": "q!0ZCsdzhM"
+  },
+  {
+    "name": "Мирон Яковенко",
+    "address": "парк Флотський 3-й, буд. 71, Харків, 24163",
+    "email": "onishchukedyta@example.net",
+    "phone_number": "454 33 76",
+    "password": "6L5ABzj)%c"
+  },
+  {
+    "name": "Леопольд Яременко",
+    "address": "набережна Генерала Алмазова, буд. 77 кв. 9, Дніпрорудне, 41806",
+    "email": "vasylvernydub@example.net",
+    "phone_number": "+380 76 096 60 03",
+    "password": "@34ME0flga"
+  },
+  {
+    "name": "Віра Балабан",
+    "address": "провулок Промисловий, буд. 023 кв. 8, Волноваха, 99109",
+    "email": "andrii11@example.net",
+    "phone_number": "558 24 20",
+    "password": "m%xpy9Xhqc"
+  },
+  {
+    "name": "Марія Данько",
+    "address": "провулок Круговий, буд. 881, Подільськ, 83387",
+    "email": "abarannyk@example.net",
+    "phone_number": "+380 62 808 78 41",
+    "password": "94QSoTsc&V"
+  },
+  {
+    "name": "Гордій Яремчук",
+    "address": "набережна Залізничний 3-й, буд. 285, Суходільськ, 12469",
+    "email": "vira19@example.com",
+    "phone_number": "+380 (48) 554-72-13",
+    "password": "ECPwr3d^&0"
+  },
+  {
+    "name": "Борислав Дейсун",
+    "address": "шосе Радіальний, буд. 43 кв. 1, Старий Крим, 12671",
+    "email": "ostapasaula@example.org",
+    "phone_number": "+380 (30) 313-94-50",
+    "password": "Ac78VHpAH^"
+  }
+]

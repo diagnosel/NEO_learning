@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./NEO/5_files"
+    ]
+}

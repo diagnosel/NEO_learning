@@ -1,0 +1,20 @@
+{"name": "Анастасія Приходько", "address": "узвіз Садова 5-та, буд. 236, Кобеляки, 52608", "email": "shamraizlatoslava@example.com", "phone_number": "189-69-33", "password": "$*B5UtcN_p"}
+{"name": "Йосип Худобʼяк", "address": "проспект Разумовська, буд. 488, Нетішин, 55019", "email": "nazarenkoalevtyn@example.com", "phone_number": "090 538 72 33", "password": "c*h3WgOv_8"}
+{"name": "Франц Вітрук", "address": "проспект Сергія Параджанова, буд. 6, Білгород-Дністровський, 41855", "email": "parmen66@example.net", "phone_number": "+380 (79) 249-66-09", "password": "##D8vAzz0X"}
+{"name": "Іван Рак", "address": "проспект Софіївська, буд. 387, Старобільськ, 38577", "email": "cbabych@example.net", "phone_number": "071 047-82-30", "password": ")zY$fi0iF3"}
+{"name": "Ісаєвич Ілля Глібович", "address": "площа Тетяни Тесс, буд. 89, Зміїв, 06251", "email": "olenamazur@example.org", "phone_number": "007 283 06 71", "password": "20I9fbHg!V"}
+{"name": "Тетяна Левченко", "address": "парк Пiвденний, буд. 37 кв. 97, Дубровиця, 49937", "email": "teodorhodunok@example.org", "phone_number": "+380 11 935-55-74", "password": "&5^JeStmN+"}
+{"name": "Аніта Базилевська", "address": "сквер Людмили Гінзбург, буд. 5 кв. 78, Попасна, 77522", "email": "hennadii74@example.org", "phone_number": "+380 (79) 485-60-00", "password": "L5Guug1x$S"}
+{"name": "пані Пріска Твердохліб", "address": "провулок Планетна, буд. 8, Шаргород, 86523", "email": "orynatkach@example.net", "phone_number": "050 890 03 25", "password": "!AaEq4@y%5"}
+{"name": "Ірена Швачко", "address": "провулок Бутишів, буд. 140, Соледар, 27426", "email": "chornovilvasyl@example.com", "phone_number": "073 972 65 34", "password": "@WvB8r9UY8"}
+{"name": "Дан Ейбоженко", "address": "проспект Семінарська, буд. 4, Новодружеськ, 30105", "email": "leontsisyk@example.net", "phone_number": "046 898 59 54", "password": "O!L8WyYf)G"}
+{"name": "Аніта Щербань", "address": "площа 19-та Лінія, буд. 85 кв. 9, Кам'янське, 08876", "email": "zynoviiivanenko@example.net", "phone_number": "082 768 57 02", "password": "4ou!IVae^A"}
+{"name": "Оксенія Скоробогатько", "address": "вулиця Лиманчик 2-й Лінія 1-ша, буд. 6, Бровари, 32974", "email": "havrylenkopylyp@example.org", "phone_number": "+380 (59) 969-37-25", "password": "^o52%HiklS"}
+{"name": "панна Дарина Чміль", "address": "сквер Керченська, буд. 3, Ічня, 29542", "email": "pdemianchuk@example.com", "phone_number": "859-41-69", "password": "2R7yPn77$N"}
+{"name": "Дмитро Гайденко", "address": "сквер Український 3-й, буд. 9, Жовті Води, 45604", "email": "ysirobaba@example.com", "phone_number": "+380 (58) 233-40-68", "password": "i18bxJGa$9"}
+{"name": "Ірина Ковалюк", "address": "набережна Нечипуренка, буд. 33, Тараща, 01791", "email": "iemelianenkoolha@example.net", "phone_number": "589 44 34", "password": "!WNwmM*f%0"}
+{"name": "Камілла Ґереґа", "address": "набережна Кільцева, буд. 55 кв. 24, Монастириська, 63588", "email": "huziiiefrem@example.net", "phone_number": "+380 25 331-06-79", "password": "_85VIxZi_h"}
+{"name": "Ярина Вакарчук", "address": "сквер Капітана Кузнецова, буд. 347 кв. 266, Хмельницький, 85917", "email": "stanislav07@example.net", "phone_number": "599-43-01", "password": ")u*XEoVN!4"}
+{"name": "Соломон Колісниченко", "address": "парк Василя Кандинського 5-й, буд. 148, Вільнянськ, 21092", "email": "jdanylchuk@example.net", "phone_number": "072 870 58 35", "password": "Z+4YNOjG7e"}
+{"name": "Юстим Якимчук", "address": "парк Палубна, буд. 80 кв. 814, Долина, 73190", "email": "kalenychenkookseniia@example.net", "phone_number": "098 578-57-27", "password": "2XEYlXEf@$"}
+{"name": "Леонід Бабенко", "address": "площа Товарний, буд. 8 кв. 50, Узин, 07781", "email": "rozaliia43@example.com", "phone_number": "+380 (56) 535-94-21", "password": "+GaxZ2zek9"}
